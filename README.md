@@ -1,6 +1,6 @@
 # BetterPhotos
 
-Date: Sunday, January 13, 2025
+Date: Monday, January 13, 2025
 
 ## Overview
 
