@@ -38,4 +38,3 @@ Guides users through the process of uploading photos, receiving feedback, and im
 - Positioning
 - Sass ( SCSS )
 - Variables
-- Responsiveness
